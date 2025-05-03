@@ -1,0 +1,7 @@
+fastapi
+category_encoders
+pandas
+numpy
+pydantic
+scikit-learn
+uvicorn
